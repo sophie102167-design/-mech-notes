@@ -29,12 +29,11 @@ python3 -m http.server 8000 --directory dist
 本專案不包含已建立的個人 GitHub Repository；上傳前不要填寫假連結。
 
 ## 作業繳交文字
-標題：台大 [學號] [系級] [姓名] 機械系解題筆記站
+成大機械118林佑蔚 機械系解題筆記站
 
 專案簡介：我建立了一個機械工程基礎課程的解題筆記網站，整理熱力學與材料力學的觀念、公式使用條件和常見錯誤。網站提供搜尋、科目篩選與可展開答案的練習題。
 
-GitHub Repository：[填入實際 Repository 連結]
-網頁連結：[填入實際公開網址]
-AGENTS.md：[附檔或填入 Repository 中的 AGENTS.md 連結]
+GitHub Repository：    https://github.com/sophie102167-design/-mech-notes
+網頁連結：    https://mech-notes-study-1116.retrowarbler.chatgpt.site/
 
 延伸方式：我在 AGENTS.md 規定內容欄位、檔案命名、頁面樣式與檢查步驟。未來新增筆記時，AI 可以參考 JSON 範本撰寫內容，再透過產生器自動新增文章及首頁入口，延續相同的閱讀格式與網站風格。
